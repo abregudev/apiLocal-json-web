@@ -1,0 +1,231 @@
+{
+    "productos" : [
+        {
+            "tecnologia" : [
+                {
+                    "id": 111, 
+                    "name": "MackBook M1",
+                    "price": 2400,
+                    "category": "tecnologia",
+                    "stock": 19,
+                    "brand": "Apple",
+                    "description": "Laptop de 14.5 pulgadas con el chip silicon M1.",
+                    "img": "assets/img/tecnologia/mackbokm1.webp"
+                },
+
+                {
+                    "id": 112, 
+                    "name": "MackBook M2",
+                    "price": 3400,
+                    "category": "tecnologia",
+                    "stock": 24,
+                    "brand": "Apple",
+                    "description": "Laptop de 13.5 pulgadas con el chip silicon M2.",
+                    "img": "assets/img/tecnologia/mackbookm2.webp"
+                },
+
+                {
+                    "id": 113, 
+                    "name": "Laptop Lenovo",
+                    "price": 1400,
+                    "category": "tecnologia",
+                    "stock": 9,
+                    "brand": "Lenono",
+                    "description": "Laptop de 14.5 pulgadas I9 13400k 16 RAM, RTX 4060.",
+                    "img": "assets/img/tecnologia/lenovo1.webp"
+                },
+
+                {
+                    "id": 114, 
+                    "name": "Iphone 14Pro",
+                    "price": 5400,
+                    "category": "tecnologia",
+                    "stock": 20,
+                    "brand": "Apple",
+                    "description": "Celular con tres camaras de alta definicion Apple.",
+                    "img": "assets/img/tecnologia/14pro.webp"
+                },
+
+                {
+                    "id": 115, 
+                    "name": "Samsung S24",
+                    "price": 5400,
+                    "category": "tecnologia",
+                    "stock": 6,
+                    "brand": "Samsung",
+                    "description": "Celular de ultima generacion  Samsung.",
+                    "img": "assets/img/tecnologia/samsung24.webp"
+                },
+
+                {
+                    "id": 116, 
+                    "name": "MackBook M3",
+                    "price": 4400,
+                    "category": "tecnologia",
+                    "stock": 19,
+                    "brand": "Apple",
+                    "description": "Laptop de 14.5 pulgadas con el chip silicon M3.",
+                    "img": "assets/img/tecnologia/mackbookm3.webp"
+                },
+
+                {
+                    "id": 117, 
+                    "name": "Laptop Asus",
+                    "price": 7400,
+                    "category": "tecnologia",
+                    "stock": 19,
+                    "brand": "Asus",
+                    "description": "Laptop de 14.5 pulgadas I9 13400k 32 RAM, RTX 4090.",
+                    "img": "assets/img/tecnologia/asus24.webp"
+                },
+
+                {
+                    "id": 118, 
+                    "name": "Logitech G PRO",
+                    "price": 2400,
+                    "category": "tecnologia",
+                    "stock": 19,
+                    "brand": "Logitech",
+                    "description": "Audifonos Logitech con tecnologia de audio Blue.",
+                    "img": "assets/img/tecnologia/logitech.webp"
+                }
+            ],
+
+            "bebidas" : [
+                {
+                    "id": 119, 
+                    "name": "Bebida Pulp",
+                    "price": 8,
+                    "category": "bebida",
+                    "stock": 221,
+                    "brand": "A. Group",
+                    "description": "Bebida Pulp de Caja 1LT Arandano Uva",
+                    "img": "assets/img/bebidas/pulparandano.webp"
+                },
+
+                {
+                    "id": 120, 
+                    "name": "Bebida Fruta Pulp",
+                    "price": 4,
+                    "category": "bebida",
+                    "stock": 129,
+                    "brand": "A. Group",
+                    "description": "Bebida Pulp de Caja 1LT de Fruta",
+                    "img": "assets/img/bebidas/bebidafrutapulp.webp"
+                },
+
+                {
+                    "id": 121, 
+                    "name": "Sporade 12U",
+                    "price": 16.90,
+                    "category": "bebida",
+                    "stock": 9,
+                    "brand": "A. Group",
+                    "description": "Bebidas energizantes Sporade 12 Unidades",
+                    "img": "assets/img/bebidas/sporade.webp"
+                },
+
+                {
+                    "id": 122, 
+                    "name": "Frugos 6U",
+                    "price": 7.90,
+                    "category": "bebida",
+                    "stock": 40,
+                    "brand": "A. Group",
+                    "description": "Bebida Frugos de 6 Unidades 235ml",
+                    "img": "assets/img/bebidas/frugos.webp"
+                },
+
+                {
+                    "id": 123, 
+                    "name": "Volt Lata",
+                    "price": 4.99,
+                    "category": "bebida",
+                    "stock": 41,
+                    "brand": "A. Group",
+                    "description": "Bebidas energizante Volt 473ml",
+                    "img": "assets/img/bebidas/volt.webp"
+                },
+
+                {
+                    "id": 124, 
+                    "name": "Kris Citrus",
+                    "price": 1.20,
+                    "category": "bebida",
+                    "stock": 24,
+                    "brand": "A. Group",
+                    "description": "Bebida KRIS Citrus Punch Botella 400ml",
+                    "img": "assets/img/bebidas/kris.webp"
+                },
+
+                {
+                    "id": 125, 
+                    "name": "Tampico Citrus",
+                    "price": 11.50,
+                    "category": "bebida",
+                    "stock": 100,
+                    "brand": "A. Group",
+                    "description": "Bebida TAMPICO Citrus Punch Galonera 3.78L.",
+                    "img": "assets/img/bebidas/tampico.webp"
+                },
+
+                {
+                    "id": 126, 
+                    "name": "Four Loko Sandia",
+                    "price": 9.90,
+                    "category": "bebida",
+                    "stock": 19,
+                    "brand": "P. Proyects",
+                    "description": "Bebida Alcohólica Sabor Sandia Lata 473ml.",
+                    "img": "assets/img/bebidas/fourloko.webp"
+                }
+            ],
+
+            "cHogar" : [
+                {
+                    "id": 127, 
+                    "name": "Escoba Multi",
+                    "price": 27.90,
+                    "category": "cHogar",
+                    "stock": 221,
+                    "brand": "Ottoware",
+                    "description": "Escoba Multifuncional 2 en 1 Giratorio de 120°",
+                    "img": "assets/img/cHogar/escobamulti.webp"
+                },
+
+                {
+                    "id": 128, 
+                    "name": "Escoba a Vapor",
+                    "price": 199.0,
+                    "category": "cHogar",
+                    "stock": 119,
+                    "brand": "Imaco",
+                    "description": "Escoba a vapor Imaco SCL1360 1.5Bar 1300W",
+                    "img": "assets/img/cHogar/escobavapor.webp"
+                },
+
+                {
+                    "id": 129, 
+                    "name": "Trapeador",
+                    "price": 59.90,
+                    "category": "cHogar",
+                    "stock": 9,
+                    "brand": "Sashija",
+                    "description": "Trapeador Escurridor Giratorio RJ Y Escoba Mágica E11 VD",
+                    "img": "assets/img/cHogar/sashija.jpeg"
+                },
+
+                {
+                    "id": 130, 
+                    "name": "Pack Limpieza",
+                    "price": 13.50,
+                    "category": "cHogar",
+                    "stock": 48,
+                    "brand": "VIRUTEX",
+                    "description": "Pack de Limpieza de Cocina VIRUTEX",
+                    "img": "assets/img/cHogar/virutex.webp"
+                }
+            ]
+        } 
+    ]
+}
